@@ -111,8 +111,3 @@ npm run dev
 
 ---
 
-## Next Steps / Future Work
-- Introduce CQRS and event-driven flows via RabbitMQ or Kafka  
-- Add policy-based authorization (e.g. `SameTenantRequirement`)  
-- Containerize with Docker Compose (optional)  
-- Extend GraphQL mutations and frontend UI modules
