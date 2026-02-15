@@ -1,4 +1,6 @@
 # SaaS ERP MVP – Phase 1
+IMPORTANT: Experimental integration prototype (learning/PoC). Backend is the primary focus; AI is integration-level.
+
 Early-phase demo of a multi-tenant SaaS ERP built with **.NET 8** (backend) and **React 18 + Vite + TypeScript** (frontend).  
 Includes authentication, organization-level isolation, GraphQL integration, and modular microservices.
 
